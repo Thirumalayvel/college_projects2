@@ -6,7 +6,7 @@ while(age<=18){
     console.log("age now:"+age);
      age+=1;
 }
-console.log("successfully reached voting age");
+console.log("success , reached voting age");
 }
 
 //waitTillVoter();
